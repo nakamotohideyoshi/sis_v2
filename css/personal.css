@@ -1,0 +1,332 @@
+.name_wrapper {
+    background-color: rgba(0,0,0,0.8);
+    border: 1px solid #000000;
+    color: white;
+    /* margin-right: 50px; */
+    width: 350px;
+    /* background-color: #0de865; */
+    border-radius: 5px;
+    /* border: solid 2px; */
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.name {
+    padding: 10px 10px 10px 10px;
+    /* background: black; */
+    /* margin-right: 0px; */
+}
+
+input[type="text"] {
+    width: 150px;
+    height: 35px;
+    font: bold 16px Trebuchet MS;
+    border: none;
+    background: white;
+    border-radius: 2px;
+    padding-left: 10px;
+    color: transparent;
+    text-shadow: 0 0 0 black;
+    border-radius: 3px;
+}
+
+span {
+    font-size: 20px;
+    /* margin-left: 6px; */
+}
+.sec_wrapper {
+    display: block;
+    width: 300px;
+    margin-right: 50px;
+}
+input.sex {
+    width: 50px;
+    /* width: 180px; */
+    background-color: white;
+    margin-left: 5px;
+}
+
+input.secsocnum {
+    width: 170px;
+}
+.address_wrapper {
+    background-color: rgba(0,0,0,0.8);
+    border: 1px solid #000000;
+    /* color: white; */
+    display: block;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    margin-top: 0px;
+    /* background-color: #03edf9; */
+    /* border: solid 2px; */
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+h2 {
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: right;
+    font: bold 25px Trebuchet MS;
+    margin-right: 100px;
+}
+span.middl_name {
+    margin-left: 15px;
+}
+.namedate_wrapper {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 800px;
+    background: none;
+    margin: 0 auto;
+    padding: 30px 17px;
+}
+span.sex {
+    margin-left: 95px;
+}
+input.address {
+    width: 409px;
+}
+
+input.zipcode {
+    width: 83px;
+    margin-left: 5px;
+}
+.phone_wrapper {align-items: center;justify-content: center;display: block;width: 400px;background: none;margin: 0 auto;padding: 10px 17px;/* background-color: yellowgreen; *//* margin-top: 10px; *//* border: solid 2px; */background-color: rgba(0,0,0,0.8);border: 1px solid #000000;/* color: #00563f; */border-radius: 5px;padding-bottom: 10px;padding-top: 10px;margin-top: 25px;}
+input.phonenum {
+    width: 200px;
+}
+
+.phone_wrapper span {
+    /* margin-right: 10px; */
+    margin-left: 20px;
+}
+.driver_wrapper {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 800px;
+    background: none;
+    margin: 0 auto;
+    padding: 10px 17px;
+}
+
+.driver_wrapper span {
+    margin-right: 10px;
+    margin-left: 30px;
+}
+
+input.Email {
+    width: 280px;
+    margin-left: 5px;
+}
+input.act {
+    width: 50px;
+    margin-left: 5px;
+}
+
+.act_wrapper span {
+    /* margin-right: 10px; */
+    /* margin-left: 1px; */
+}
+
+.act_wrapper {
+    /* padding-left: 10px; */
+    /* padding-right: 10px; */
+    /* border: solid 2px; */
+    border-radius: 5px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    /* background-color: aquamarine; */
+    background-color: rgba(0,0,0,0.8);
+    border: 1px solid #000000;
+    width: 770px;
+    /* color: #00563f; */
+    margin: auto;
+}
+.top {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 700px;
+    background: none;
+    margin: 0 auto;
+    padding: 10px 17px;
+}
+
+.bottom {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 700px;
+    background: none;
+    margin: 0 auto;
+    padding: 10px 17px;
+}
+span.act_title {
+    /* padding-right: 400px; */
+    /* padding-left: 400px; */
+    font: bold 25px Trebuchet MS;
+    color: black;
+    margin: auto;
+}
+.address_wrapper span {
+    /* margin-right: 10px; */
+    margin-left: 20px;
+}
+spn.address_info {
+    background: white;
+    /* height: 4px; */
+    font: bold 18px Trebuchet MS;
+    color: black;
+    padding-right: 15px;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /* width: 430px; */
+    margin-left: 5px;
+    /* width: 50px; */
+    border-radius: 3px;
+}
+#logout{float:right;padding: 5px;border: solid 1px gray;border-radius: 7px;font-size: 12px;background: rgba(4, 4, 4, 0.53);}
+a {
+    text-decoration: none;
+    color: #b4f177;
+}
+#wrapper {
+    /* justify-content: center; */
+    /* align-items: center; */
+    display: block;
+    width: 950px;
+    background-color: #00563f;
+        background-image: url(https://www.crc.edu/sis/css/overlay-pattern.png);
+    color: white;
+    /* background: #c9dff0; */
+    margin: 0 auto;
+    padding-bottom: 46px;
+    /* padding: 10px 17px; */
+    -webkit-box-shadow: 2px 2px 3px -1px rgba(0,0,0,0.35);
+}
+
+input.city {
+    width: 100px;
+}
+.b_wrapper {
+    width: 400px;
+    margin: auto;
+}
+
+input.driver {
+    width: 180px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+input.birth {
+    width: 180px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+
+
+input.first_name {
+    width: 180px;
+    background-color: white;
+    margin-left: 5px;
+}
+input.middle_name {
+    width: 180px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+input.last_name {
+    width: 180px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+span.first_name {
+    margin-left: 37px;
+}
+
+span.last_name {
+    margin-left: 37px;
+}
+
+
+span.birth {
+    margin-left: 45px;
+}
+input.city {
+    background-color: white;
+    width: 280px;
+    margin-left: 5px;
+}
+
+span.email {
+    margin-left: 30px;
+}
+
+span.zipcode {
+    margin-left: 5px;
+}
+
+span.city {
+    margin-left: 45px;
+}
+
+span {
+}
+
+span.addres {
+    margin-left: 8px;
+}
+span.state {
+    margin-left: 32px;
+}
+span.phone {
+    margin-left: 0px;
+}
+
+span.cell {
+    margin-left: 37px;
+}
+h1 {
+    font-family: 'Amarante', Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 2.5em;
+    line-height: 1.7em;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 10px;
+}
+h3 {
+    font-family: 'Amarante', Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 2.5em;
+    line-height: 1.7em;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+input.state {
+    width: 100px;
+    margin-left: 5px;
+}
+h4 {
+    font-family: 'Amarante', Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 4.6em;
+    line-height: 1.7em;
+    /* margin-bottom: 0px; */
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+}

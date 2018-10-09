@@ -1,0 +1,44 @@
+"ItemName","itemnamelong","ItemStatus","itemstatuslong","sortorder","Color","Archive"
+"Application","Application Status","Completed","Your application has been processed.",1.20,"Green",0
+"Application","Application Status","Incomplete","Oops! Something didn't look right. Please submit another application. Be sure to complete your Social Security number, birthdate, Graduation year, a dependable phone number and email address.",1.00,"Red",0
+"Application","Application Status","Please Call","I have some questions about your application. Please call the Director of Admissions, Chris Hughes, at 870-236-6901",1.10,"Yellow",0
+"Transcripts","Transcripts Status","Completed","Thank you for sending your high school transcripts. They have been processed. This will stay YELLOW until we have an OFFICIAL copy of your FINAL transcript after your graduation.",2.10,"Yellow",0
+"Transcripts","Transcripts Status","Web Response","You have to ask your high school counselor to send your transcripts. They can also be mailed to 100 College Dr., Paragould, AR 72450",2.00,"Red",0
+"Accepted","Acceptance Status","Completed","Congratulations! You have been accepted to Crowley's Ridge College. A letter has been sent via email and regular mail to the addresses provided on your application.",5.10,"Green",0
+"FAFSA","FAFSA Status","Web Response","The FAFSA is the Free Application for Federal Student Aid. You can complete the FAFSA at https://www.fafsa.gov. You need to have it completed by July 14th, 2017.",6.00,"Red",0
+"FAFSA","FAFSA Status","Completed","Your FAFSA has been completed and processed. Please check the Financial Aid tab for more information and your award letter",6.10,"Green",0
+"College/University Transcripts","Official college/university transcripts Status","Web Response","Official copies of your transcripts need to be sent to CRC. You must send them from every college you have attended or from which you have received finanical aid. Please list all the colleges/universities that you have attended.",8.00,"Red",0
+"College/University Transcripts","Official college/university transcripts Status","Completed","Your Official college transcripts have been received and processed.",8.20,"Green",0
+"Dual Enrolled transcript","Dual Enrolled Transcript Status","Web Response","Dual Enrollment or concurrent credit classes are college level classes taken during high school.",7.00,"Red",0
+"Dual Enrolled transcript","Dual Enrolled Transcript Status","Completed","Your transcript has been received and proccesed.",7.20,"Green",0
+"Freshman Orientation Fee","Freshman Orientation Fee","Completed","Your Freshman Orientation Fee has been received.",9.10,"Green",0
+"Roommate","Roommate Preference","Web Response","If you know someone that you would like to room with, please let me know. If you don't know anyone, the Admissions department will do their best to room you with someone that you will get along with.",10.00,"Red",0
+"Freshman Orientation Fee","Freshman Orientation Fee","Web Response","$100 non-refundable fee for Freshman Orientation activities. It must be paid by JULY 13, 2018.",9.00,"Red",0
+"Transcripts","Transcript Status","Completed","Your official final high school transcripts have been received and processed.",2.20,"Green",0
+"Social Security Card","Social Security Card","Web Response","The Federal Government requires us to have a copy of your Social Security Card on file.",3.20,"Red",0
+"Social Security Card","Social Security Card","Completed","Thank you. Your Social Security Card has been received and documented.",3.40,"Green",0
+"Shot records","Shot records","Completed","Your shot records have been received and processed. Or, if for religious reasons, you have not been immunized, I have received and processed that documentation.",4.10,"Green",0
+"Shot records","Shot records","Web Response","A copy of your shot records need to be on record. You may fax (870-236-7748), scan and email (chughes@crc.edu) or mail (100 College Dr., Paragould, AR 72450) a copy to the Admissions department.",4.00,"Red",0
+"Roommate","Roommate Preference","Completed","Thank you. You let us know of a specific person with whom you wish to room, or you have let us know that you didn't have anyone specific. If something changes and you wish to room with someone else, please call the Admissions Department (870) 236-6901.",10.10,"Green",0
+"Social Security Card","Social Security Card","Completed","You must bring it with you do Freshman Orientation.",3.30,"Yellow",0
+"College/University Transcripts","Official college/university transcripts Status","Web Response","Some of your college/university transcripts have been received and processed. We are still waiting on others. Please call the Admissions office if you would like to know which ones have been received.",8.10,"Yellow",0
+"Auto Information","Auto Information","Web Response","This is basic auto information for the car you will be driving on campus.",11.00,"Red",0
+"Dual Enrolled transcript","Dual Enrolled Transcript Status","Web Response","Some of your college/university transcripts have been received and processed. We are still waiting on others. Please call the Admissions office if you would like to know which ones have been received.",7.10,"Yellow",0
+"Accepted","Acceptance Status","Incomplete","As soon as you send in your high school transcripts, shot records and ACT/SAT scores, the Admissions department can work on getting you accepted.",5.00,"Red",0
+"Personal Insurance","Personal Insurance","Web Response","Crowley's Ridge College does not provide personal injury insurance for students. CRC does carry an catastrophic insurance policy for student athletes, in accordance with the NAIA regulations.",12.00,"Red",0
+"Auto Licence Plate Number","Auto Licence Plate Number","Web Response","Auto Licence Plate Number",11.20,"Red",0
+"Auto Licence Plate Number","Auto Licence Plate Number","Completed","Auto Licence Plate Number",11.30,"Green",0
+"Auto Insurance","Auto Insurance","Completed","Name of the Insurance Company you have auto insurance.",11.50,"Green",0
+"Auto Information","Auto Information","Completed","This is basic auto information for the car you will be driving on campus.",11.10,"Green",0
+"Auto Insurance","Auto Insurance","Web Response","Name of the Insurance Company you have auto insurance.",11.40,"Red",0
+"Personal Insurance","Personal Insurance","Completed","Crowley's Ridge College does not provide personal injury insurance for students. CRC does carry an catastrophic insurance policy for student athletes, in accordance with the NAIA regulations.",12.10,"Green",0
+"Liability Understanding","Liability Understanding","Web Response","Liability Understanding",13.00,"Red",0
+"Liability Understanding","Liability Understanding","Completed","Liability Understanding",13.10,"Green",0
+"Liability Waiver","Liability Waiver","Web Response","Liability Waiver",13.20,"Red",0
+"Liability Waiver","Liability Waiver","Completed","Thank you for completing the Liability Waiver",13.30,"Green",0
+"Vehicle Safety Compliance","Vehicle Safety Compliance","Web Response","Vehicle Safety Compliance",11.51,"Red",0
+"Vehicle Safety Compliance","Vehicle Safety Compliance","Completed","Vehicle Safety Compliance",11.52,"Green",0
+"GED","GED Certificate","Web Response","We need a copy of your GED with your scores.",3.00,"Red",0
+"GED","GED Certificate","Completed","We have received your GED scores.",3.10,"Green",0
+"ACT Test Scores","ACT Test Scores","Completed","You will need to take your ACT and have the scores sent to CRC. You can find a test date and site at www.act.org. CRC's school code is 001095",2.30,"Red",0
+"ACT Test Scores","ACT Test Scores","Completed","We have received your scores and have updated your file and your SIS page.",2.40,"Green",0

@@ -1,0 +1,43 @@
+.navi_hm {
+    background: url(../images/til_hm.gif) repeat-x;
+    padding: 10px 30px;
+    /* margin-left: 3px; */
+    /* margin-right: 1px; */
+    font: bold 25px Trebuchet MS;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    color: green;
+    /* margin: auto; */
+}
+.navi_tx {
+    text-align: center;
+    background: url(../images/til_ab.gif) repeat-x;
+    padding: 10px 30px;
+    /* margin-right: 1px; */
+    /* margin-left: 1px; */
+    font: bold 25px Trebuchet MS;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: auto;
+}
+.navi {
+    background: none;
+    margin: 30px auto;
+    /* display: block; */
+}
+#top_block {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+body, p {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    font: 12px/15px tahoma;
+}
+.navi a {
+    margin-left: 10px;
+}
